@@ -121,5 +121,8 @@
         "nativeOTA": {
             "enabled": false
         }
-    }
+    },
+    "appVersion": "0.0.2",
+    "buildNumber": 1,
+    "runtimeUrl": "https://dlp100-sandbox.mxapps.io/"
 }
